@@ -1,0 +1,114 @@
+{
+	"title": "Tùy Chọn",
+	"copyPreferences": "Sao Chép Tùy Chọn",
+	"copyPreferencesSuccessTitle": "Sao chép thành công",
+	"copyPreferencesSuccess": "Sao chép thành công, vui lòng ghi đè trong `src/store/preferences/index.ts`",
+	"clearAndLogout": "Xóa Cache & Đăng Xuất",
+	"theme": {
+		"title": "Giao Diện",
+		"followSystem": "Theo Hệ Thống",
+		"light": "Sáng",
+		"dark": "Tối",
+		"colorBlindMode": "Chế Độ Mù Màu",
+		"grayMode": "Chế Độ Xám",
+		"radius": "Bán Kính",
+		"builtin": {
+			"title": "Tích Hợp Sẵn",
+			"red": "Đỏ Bụi",
+			"volcano": "Núi Lửa",
+			"orange": "Cam Hoàng Hôn",
+			"gold": "Vàng Kim Cúc",
+			"yellow": "Vàng Bình Minh",
+			"lime": "Chanh",
+			"green": "Xanh Cực",
+			"cyan": "Xanh Lơ",
+			"blue": "Xanh Bình Minh",
+			"geekblue": "Xanh Geek",
+			"purple": "Tím Vàng",
+			"magenta": "Đỏ Tím",
+			"gray": "Xám",
+			"custom": "Tùy Chỉnh"
+		}
+	},
+	"layout": {
+		"title": "Bố Cục",
+		"topNavigation": "Điều Hướng Trên",
+		"topNavigationTip": "Menu ở vị trí trên cùng",
+		"sideNavigation": "Điều Hướng Bên",
+		"sideNavigationTip": "Menu ở vị trí bên",
+		"twoColumnNavigation": "Điều Hướng Hai Cột",
+		"twoColumnNavigationTip": "Menu hai cột dọc ở vị trí bên",
+		"mixedNavigation": "Điều Hướng Hỗn Hợp",
+		"mixedNavigationTip": "Điều hướng chính ở trên, điều hướng phụ ở bên"
+	},
+	"sidebar": {
+		"title": "Thanh Bên",
+		"width": "Chiều Rộng",
+		"enable": "Hiển Thị Thanh Bên",
+		"collapsedWidth": "Chiều Rộng Menu Thu Gọn",
+		"collapsed": "Thu Gọn Menu",
+		"collapsedShowTitle": "Hiển Thị Tiêu Đề Menu",
+		"firstColumnWidthInTwoColumnNavigation": "Chiều Rộng Cột Đầu Trong Điều Hướng Hai Cột",
+		"sidebarTheme": "Giao Diện Thanh Bên",
+		"accordion": "Menu Accordion",
+		"autoActivateChild": "Tự Động Kích Hoạt SubMenu",
+		"autoActivateChildTip": "`Bật` để tự động kích hoạt submenu khi click menu.",
+		"expandOnHover": "Mở Rộng Khi Hover",
+		"expandOnHoverTip": "Khi chuột hover vào menu, \n `Bật` để mở rộng menu con \n `Tắt` để mở rộng toàn bộ thanh bên."
+	},
+	"tabbar": {
+		"title": "Thanh Tab",
+		"enable": "Bật Thanh Tab",
+		"icon": "Hiển Thị Icon Tabbar",
+		"showMore": "Hiển Thị Nút Thêm",
+		"showMaximize": "Hiển Thị Nút Phóng To",
+		"persist": "Lưu Trữ Tab",
+		"draggable": "Bật Sắp Xếp Kéo Thả",
+		"styleType": {
+			"title": "Kiểu Tab",
+			"chrome": "Chrome",
+			"card": "Card",
+			"plain": "Plain",
+			"brisk": "Brisk"
+		},
+		"contextMenu": {
+			"refresh": "Làm Mới",
+			"close": "Đóng",
+			"pin": "Ghim",
+			"unpin": "Bỏ Ghim",
+			"closeLeft": "Đóng Tab Bên Trái",
+			"closeRight": "Đóng Tab Bên Phải",
+			"closeOthers": "Đóng Tab Khác",
+			"closeAll": "Đóng Tất Cả Tab",
+			"openInNewWindow": "Mở Trong Cửa Sổ Mới",
+			"maximize": "Phóng To",
+			"restoreMaximize": "Khôi Phục"
+		}
+	},
+	"animation": {
+		"title": "Hoạt Ảnh",
+		"loading": "Tải Trang",
+		"transition": "Chuyển Tiếp Trang",
+		"progress": "Tiến Trình Trang"
+	},
+	"general": {
+		"title": "Chung",
+		"language": "Ngôn Ngữ",
+		"dynamicTitle": "Tiêu Đề Động",
+		"watermark": "Hình Mờ",
+		"watermarkTip": "Hình mờ như psoriasis trên website, không khuyến nghị",
+		"watermarkContent": "Nội Dung Hình Mờ",
+		"enableCheckUpdate": "Kiểm Tra Cập Nhật",
+		"enableBackTopButton": "Nút Lên Đầu Trang"
+	},
+	"footer": {
+		"title": "Chân Trang",
+		"showFooter": "Hiển Thị Chân Trang",
+		"fixedFooter": "Cố Định Chân Trang",
+		"companyName": "Tên Công Ty",
+		"companyWebsite": "Website Công Ty",
+		"copyrightDate": "Ngày Bản Quyền",
+		"ICPNumber": "Số ICP",
+		"ICPLink": "Liên Kết ICP"
+	}
+}

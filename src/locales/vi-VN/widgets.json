@@ -1,0 +1,24 @@
+{
+	"document": "Tài Liệu",
+	"qa": "Hỏi & Đáp",
+	"setting": "Cài Đặt",
+	"logoutTip": "Bạn có muốn đăng xuất?",
+	"viewAll": "Xem Tất Cả Tin Nhắn",
+	"notifications": "Thông Báo",
+	"markAllAsRead": "Đánh Dấu Tất Cả Đã Đọc",
+	"clearNotifications": "Xóa",
+	"versionMonitorTitle": "Thông Báo Cập Nhật Phiên Bản Hệ Thống",
+	"versionMonitorContent": "Đã phát hiện phiên bản mới của hệ thống, bạn có muốn làm mới trang ngay bây giờ?",
+	"versionMonitorConfirm": "Làm Mới Ngay",
+	"versionMonitorCancel": "Để Sau",
+	"search": {
+		"placeholder": "Nhập từ khóa để tìm kiếm menu",
+		"title": "Tìm Kiếm",
+		"select": "Chọn",
+		"navigate": "Điều Hướng",
+		"close": "Đóng",
+		"noResults": "Không Tìm Thấy Kết Quả",
+		"noRecent": "Không Có Lịch Sử Tìm Kiếm",
+		"total": "Tổng cộng {{total}} mục"
+	}
+}

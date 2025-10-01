@@ -1,0 +1,39 @@
+{
+	"accessMode": {
+		"title": "Hiển Thị Quyền Truy Cập Backend",
+		"description": "Trang hiện tại chỉ hỗ trợ lấy khả năng hiển thị route thông qua giao diện backend"
+	},
+	"adminVisible": {
+		"title": "Hiển Thị Admin",
+		"description": "Trang hiện tại chỉ hiển thị cho tài khoản Admin"
+	},
+	"commonVisible": {
+		"title": "Hiển Thị Thường",
+		"description": "Trang hiện tại chỉ hiển thị cho tài khoản Thường"
+	},
+	"pageControl": {
+		"alertMessage": "Demo Quyền Truy Cập Trang Frontend",
+		"alertDescription": "Chuyển đổi giữa các tài khoản khác nhau và quan sát thay đổi trong submenu 'Demo Quyền Hạn' bên trái.",
+		"cardTitle": "Chế Độ Quyền Hạn",
+		"frontendControl": "Kiểm Soát Quyền Frontend",
+		"backendControl": "Kiểm Soát Quyền Backend",
+		"switchToFrontend": "Chuyển sang Chế Độ Quyền Frontend",
+		"switchToBackend": "Chuyển sang Chế Độ Quyền Backend",
+		"switchAdmin": "Chuyển sang Người Dùng Admin",
+		"switchCommon": "Chuyển sang Người Dùng Thường",
+		"currentPermissionMode": "Chế độ quyền hiện tại:",
+		"accountSwitching": "Chuyển Đổi Tài Khoản",
+		"warningMessage": "Nếu enableFrontendAceess và enableBackendAceess bằng nhau, không được phép chuyển đổi chế độ routing."
+	},
+	"buttonControl": {
+		"alertMessage": "Demo Quyền Truy Cập Nút Frontend",
+		"alertDescription": "Chuyển đổi giữa các tài khoản khác nhau để quan sát thay đổi nút.",
+		"currentRole": "Vai Trò Hiện Tại",
+		"switchAdmin": "Chuyển sang Người Dùng Admin",
+		"switchCommon": "Chuyển sang Người Dùng Thường",
+		"componentControlPermissionCodes": "Kiểm Soát Dựa Trên Component - Mã Quyền",
+		"componentControlRoles": "Kiểm Soát Dựa Trên Component - Vai Trò",
+		"functionControlPermissionCodes": "Kiểm Soát Dựa Trên Function - Mã Quyền",
+		"functionControlRoles": "Kiểm Soát Dựa Trên Function - Vai Trò"
+	}
+}

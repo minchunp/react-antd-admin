@@ -1,0 +1,13 @@
+{
+	"aboutProject": "Về Dự Án",
+	"descriptions": "react-ant-admin là một giải pháp quản trị backend dựa trên React Hooks, Vite và TypeScript. Nó được thiết kế để giúp bạn nhanh chóng xây dựng các dự án backend cấp doanh nghiệp. Nó có thể giúp bạn áp dụng các công nghệ mới và nhiều khía cạnh khác.",
+	"projectMessage": "Thông Tin Dự Án",
+	"version": "Phiên Bản",
+	"lastBuildTime": "Lần Build Cuối",
+	"license": "Giấy Phép",
+	"previewAddress": "URL Xem Trước",
+	"documentAddress": "URL Tài Liệu",
+	"author": "Tác Giả",
+	"dependencies": "Dependency Sản Phẩm",
+	"devDependencies": "Dependency Phát Triển"
+}

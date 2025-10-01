@@ -1,4 +1,4 @@
-import logo from "#src/assets/svg/logo.svg?url";
+import logo from "#src/assets/img/logo-mobile.png";
 
 import { Typography } from "antd";
 import { clsx } from "clsx";

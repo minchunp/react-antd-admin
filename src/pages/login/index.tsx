@@ -1,7 +1,7 @@
 import type { FormComponentMapType } from "./form-mode-context";
+import logo from "#src/assets/img/logo-mobile.png";
 // import hero from "#src/assets/svg/hero.svg?url";
 import Banner from "#src/assets/svg/banner.svg?react";
-import logo from "#src/assets/svg/logo.svg?url";
 import { useLayoutMenu } from "#src/hooks";
 import { LayoutFooter } from "#src/layout";
 import { LanguageButton } from "#src/layout/layout-header/components/language-button";
